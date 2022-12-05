@@ -1,7 +1,7 @@
-// !Type ANIMATION no work
-// var typed = new Typed(".typing", {
-//     string: ["First Sentence", "Second Sentence", "Third Sentence"],
-//     typeSpeed: 100,
-//     backSpeed: 60,
-//     loop: true
-// })
+
+var typed = new Typed(".typing", {
+    strings: ["Full Stack Developer", "Web Developer", "PC Build Technician", "Server"],
+    typeSpeed: 100,
+    backSpeed: 60,
+    loop: true
+})
